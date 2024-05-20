@@ -13,5 +13,8 @@ version that gives numerical scale to the motion.
 
 Example:
 (Video blurred for privacy)
-https://github.com/ParkerJamison/VisualOdometry/assets/125768792/d89eb3b8-65ff-4c37-9e33-94ec11976a61
+
+
+
+https://github.com/ParkerJamison/VisualOdometry/assets/125768792/4152c909-c763-45b6-a55d-854f391746a7
 
